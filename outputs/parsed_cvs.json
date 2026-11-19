@@ -1,0 +1,534 @@
+[
+  {
+    "cv_id": "CV_001_CLEAN_TECH",
+    "raw_text": "ARJUN MEHTA | Bengaluru, India | arjun.mehta.dev@example.com\nSUMMARY: Backend & Data Engineer with 2.5 years building high-throughput ingestion pipelines and ML scoring services.\nEXPERIENCE:\nData & Backend Engineer | FinPulse Analytics | Jul 2024 - Present\nArchitected PySpark Pipelines and dbt Transformations processing 1.4M daily ledger events with Dead Letter Queues for malformed payloads.\nBuilt Django and SQLAlchemy microservices backed by PostgreSQL with custom Indexing Strategies, cutting p95 query latency by 42%.\nProvisioned AWS VPC environments using HashiCorp Terraform and deployed XGBoost scoring models.\nTools used: FastAPI, Pydantic, Redis, Docker.\nPROJECTS:\nDocuStruct Parser (2024): Extracted structured JSON from 500+ PDF invoices using Python Requests and regex validation.\nEDUCATION:\nB.Tech in Computer Science, NIT Surathkal (2020 - 2024)",
+    "stage1_routing": {
+      "primary_domain": "Information Technology",
+      "primary_job_category": "Data and Artificial Intelligence",
+      "secondary_domains": [],
+      "secondary_job_categories": [
+        "Software Engineering",
+        "Cloud and Infrastructure"
+      ]
+    },
+    "model_extracted_profile": {
+      "candidate_name": "Arjun Mehta",
+      "mapped_skills": [
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Data Engineer",
+          "core_skill": "Data Pipeline Engineering",
+          "sub_skill": "Batch Data Pipeline Development",
+          "matched_evidence": "PySpark Pipelines"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Data Engineer",
+          "core_skill": "Data Pipeline Engineering",
+          "sub_skill": "Extract Transform Load Automation",
+          "matched_evidence": "dbt Transformations"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Data Engineer",
+          "core_skill": "Data Pipeline Engineering",
+          "sub_skill": "API Data Ingestion Programming",
+          "matched_evidence": "Python Requests"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Data Engineer",
+          "core_skill": "Data Pipeline Engineering",
+          "sub_skill": "Data Pipeline Error Handling",
+          "matched_evidence": "Dead Letter Queues"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Machine Learning Engineer",
+          "core_skill": "Machine Learning Model Development",
+          "sub_skill": "Gradient Boosting Algorithm Tuning",
+          "matched_evidence": "XGBoost"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Software Engineering",
+          "job_title": "Back End Engineer",
+          "core_skill": "Server Side Programming",
+          "sub_skill": "Python Server Development",
+          "matched_evidence": "Django"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Software Engineering",
+          "job_title": "Back End Engineer",
+          "core_skill": "Relational Database Management",
+          "sub_skill": "SQL Query Optimization",
+          "matched_evidence": "Indexing Strategies"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Software Engineering",
+          "job_title": "Back End Engineer",
+          "core_skill": "Relational Database Management",
+          "sub_skill": "Object Relational Mapping",
+          "matched_evidence": "SQLAlchemy"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Cloud and Infrastructure",
+          "job_title": "Cloud Engineer",
+          "core_skill": "Infrastructure as Code",
+          "sub_skill": "Terraform Infrastructure Provisioning",
+          "matched_evidence": "HashiCorp Terraform"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Cloud and Infrastructure",
+          "job_title": "Cloud Engineer",
+          "core_skill": "Cloud Networking Architecture",
+          "sub_skill": "Virtual Private Cloud Design",
+          "matched_evidence": "AWS VPC"
+        }
+      ],
+      "other_skills_pending_approval": [
+        "PostgreSQL",
+        "FastAPI",
+        "Pydantic",
+        "Redis",
+        "Docker",
+        "Regex"
+      ]
+    },
+    "user_verified_profile": {
+      "candidate_name": "Arjun Mehta",
+      "mapped_skills": [
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Data Engineer",
+          "core_skill": "Data Pipeline Engineering",
+          "sub_skill": "Batch Data Pipeline Development",
+          "matched_evidence": "PySpark Pipelines"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Data Engineer",
+          "core_skill": "Data Pipeline Engineering",
+          "sub_skill": "Extract Transform Load Automation",
+          "matched_evidence": "dbt Transformations"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Data Engineer",
+          "core_skill": "Data Pipeline Engineering",
+          "sub_skill": "API Data Ingestion Programming",
+          "matched_evidence": "Python Requests"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Data Engineer",
+          "core_skill": "Data Pipeline Engineering",
+          "sub_skill": "Data Pipeline Error Handling",
+          "matched_evidence": "Dead Letter Queues"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Machine Learning Engineer",
+          "core_skill": "Machine Learning Model Development",
+          "sub_skill": "Gradient Boosting Algorithm Tuning",
+          "matched_evidence": "XGBoost"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Software Engineering",
+          "job_title": "Back End Engineer",
+          "core_skill": "Server Side Programming",
+          "sub_skill": "Python Server Development",
+          "matched_evidence": "Django"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Software Engineering",
+          "job_title": "Back End Engineer",
+          "core_skill": "Relational Database Management",
+          "sub_skill": "SQL Query Optimization",
+          "matched_evidence": "Indexing Strategies"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Software Engineering",
+          "job_title": "Back End Engineer",
+          "core_skill": "Relational Database Management",
+          "sub_skill": "Object Relational Mapping",
+          "matched_evidence": "SQLAlchemy"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Cloud and Infrastructure",
+          "job_title": "Cloud Engineer",
+          "core_skill": "Infrastructure as Code",
+          "sub_skill": "Terraform Infrastructure Provisioning",
+          "matched_evidence": "HashiCorp Terraform"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Cloud and Infrastructure",
+          "job_title": "Cloud Engineer",
+          "core_skill": "Cloud Networking Architecture",
+          "sub_skill": "Virtual Private Cloud Design",
+          "matched_evidence": "AWS VPC"
+        }
+      ],
+      "other_skills_pending_approval": [
+        "PostgreSQL",
+        "FastAPI",
+        "Pydantic",
+        "Redis",
+        "Docker",
+        "Regex"
+      ]
+    },
+    "diff_log": []
+  },
+  {
+    "cv_id": "CV_002_COMPLEX_HYBRID",
+    "raw_text": "PRIYA NAIR | Singapore / Remote | priya.nair.growth@example.com\nEXECUTIVE PROFILE\nMulti-disciplinary commercial strategist and growth operator with 9+ years scaling B2B/B2C digital marketplaces and advising enterprise leadership across APAC.\nCORE COMPETENCIES: Paid Acquisition (Google Ads Smart Bidding, Meta Conversions API, Meta Custom Audiences), Go-To-Market Strategy, Market Entry & Feasibility (TAM SAM SOM Estimation, Porter Five Forces Diagnostic, Issue Tree Architecture), Unit Economics (Cash Flow Breakeven Timeline, Monthly Run Rate Analysis), SQL, Looker Studio.\nCAREER HISTORY\nHead of Growth & Commercial Strategy | CartSphere Asia | Jan 2022 - Present\nScaled paid search and social acquisition across 4 markets, improving CAC payback period by 31% through Google Search Console query mining and A/B landing page tests.\nBuilt monthly run rate and cohort payback models in partnership with CFO; led 6-member cross-functional growth pod.\nManagement Consultant — Strategy & Operations | ApexBridge Advisory | Mar 2018 - Dec 2021\nLed R&D partner due diligence and TAM/SAM/SOM market sizing for 12 enterprise clients.\nConducted Five Whys Method root-cause diagnostics on churned enterprise accounts.\nEDUCATION\nMBA, Strategy & Finance — Indian School of Business (2018) | B.Com (Hons) — Delhi University (2015)",
+    "stage1_routing": {
+      "primary_domain": "Marketing",
+      "primary_job_category": "Growth and Performance Media",
+      "secondary_domains": [
+        "Consulting",
+        "Finance"
+      ],
+      "secondary_job_categories": [
+        "Strategy and Corporate Advisory",
+        "Corporate Finance and Strategic Planning"
+      ]
+    },
+    "model_extracted_profile": {
+      "candidate_name": "Priya Nair",
+      "mapped_skills": [
+        {
+          "domain": "Marketing",
+          "job_category": "Growth and Performance Media",
+          "job_title": "Growth Marketing Manager",
+          "core_skill": "Paid Search Engine Marketing",
+          "sub_skill": "Search Query Analysis",
+          "matched_evidence": "Google Search Console"
+        },
+        {
+          "domain": "Marketing",
+          "job_category": "Growth and Performance Media",
+          "job_title": "Growth Marketing Manager",
+          "core_skill": "Paid Search Engine Marketing",
+          "sub_skill": "Keyword Bidding Strategy",
+          "matched_evidence": "Google Ads Smart Bidding"
+        },
+        {
+          "domain": "Marketing",
+          "job_category": "Growth and Performance Media",
+          "job_title": "Growth Marketing Manager",
+          "core_skill": "Paid Social Media Advertising",
+          "sub_skill": "Audience Targeting Architecture",
+          "matched_evidence": "Meta Custom Audiences"
+        },
+        {
+          "domain": "Marketing",
+          "job_category": "Growth and Performance Media",
+          "job_title": "Growth Marketing Manager",
+          "core_skill": "Paid Social Media Advertising",
+          "sub_skill": "Conversion Tracking Implementation",
+          "matched_evidence": "Meta Conversions API"
+        },
+        {
+          "domain": "Consulting",
+          "job_category": "Strategy and Corporate Advisory",
+          "job_title": "Strategy Consultant",
+          "core_skill": "Structured Problem Solving",
+          "sub_skill": "MECE Issue Structuring",
+          "matched_evidence": "Issue Tree Architecture"
+        },
+        {
+          "domain": "Consulting",
+          "job_category": "Strategy and Corporate Advisory",
+          "job_title": "Strategy Consultant",
+          "core_skill": "Structured Problem Solving",
+          "sub_skill": "Root Cause Analysis",
+          "matched_evidence": "Five Whys Method"
+        },
+        {
+          "domain": "Consulting",
+          "job_category": "Strategy and Corporate Advisory",
+          "job_title": "Strategy Consultant",
+          "core_skill": "Strategic Market Assessment",
+          "sub_skill": "Market Sizing Estimation",
+          "matched_evidence": "TAM SAM SOM Estimation"
+        },
+        {
+          "domain": "Consulting",
+          "job_category": "Strategy and Corporate Advisory",
+          "job_title": "Strategy Consultant",
+          "core_skill": "Strategic Market Assessment",
+          "sub_skill": "Competitive Dynamics Evaluation",
+          "matched_evidence": "Porter Five Forces Diagnostic"
+        },
+        {
+          "domain": "Finance",
+          "job_category": "Corporate Finance and Strategic Planning",
+          "job_title": "Financial Planning Analyst",
+          "core_skill": "Rolling Forecast Architecture",
+          "sub_skill": "Dynamic Cost Run Rate Estimation",
+          "matched_evidence": "Monthly Run Rate Analysis"
+        },
+        {
+          "domain": "Finance",
+          "job_category": "Corporate Finance and Strategic Planning",
+          "job_title": "Strategic Finance Specialist",
+          "core_skill": "Unit Economics Optimization",
+          "sub_skill": "Payback Period Estimation",
+          "matched_evidence": "Cash Flow Breakeven Timeline"
+        }
+      ],
+      "other_skills_pending_approval": [
+        "Go-To-Market Strategy",
+        "SQL",
+        "Looker Studio",
+        "A/B Landing Page Tests",
+        "Due Diligence"
+      ]
+    },
+    "user_verified_profile": {
+      "candidate_name": "Priya Nair",
+      "mapped_skills": [
+        {
+          "domain": "Marketing",
+          "job_category": "Growth and Performance Media",
+          "job_title": "Growth Marketing Manager",
+          "core_skill": "Paid Search Engine Marketing",
+          "sub_skill": "Search Query Analysis",
+          "matched_evidence": "Google Search Console"
+        },
+        {
+          "domain": "Marketing",
+          "job_category": "Growth and Performance Media",
+          "job_title": "Growth Marketing Manager",
+          "core_skill": "Paid Search Engine Marketing",
+          "sub_skill": "Keyword Bidding Strategy",
+          "matched_evidence": "Google Ads Smart Bidding"
+        },
+        {
+          "domain": "Marketing",
+          "job_category": "Growth and Performance Media",
+          "job_title": "Growth Marketing Manager",
+          "core_skill": "Paid Social Media Advertising",
+          "sub_skill": "Audience Targeting Architecture",
+          "matched_evidence": "Meta Custom Audiences"
+        },
+        {
+          "domain": "Marketing",
+          "job_category": "Growth and Performance Media",
+          "job_title": "Growth Marketing Manager",
+          "core_skill": "Paid Social Media Advertising",
+          "sub_skill": "Conversion Tracking Implementation",
+          "matched_evidence": "Meta Conversions API"
+        },
+        {
+          "domain": "Consulting",
+          "job_category": "Strategy and Corporate Advisory",
+          "job_title": "Strategy Consultant",
+          "core_skill": "Structured Problem Solving",
+          "sub_skill": "MECE Issue Structuring",
+          "matched_evidence": "Issue Tree Architecture"
+        },
+        {
+          "domain": "Consulting",
+          "job_category": "Strategy and Corporate Advisory",
+          "job_title": "Strategy Consultant",
+          "core_skill": "Structured Problem Solving",
+          "sub_skill": "Root Cause Analysis",
+          "matched_evidence": "Five Whys Method"
+        },
+        {
+          "domain": "Consulting",
+          "job_category": "Strategy and Corporate Advisory",
+          "job_title": "Strategy Consultant",
+          "core_skill": "Strategic Market Assessment",
+          "sub_skill": "Market Sizing Estimation",
+          "matched_evidence": "TAM SAM SOM Estimation"
+        },
+        {
+          "domain": "Consulting",
+          "job_category": "Strategy and Corporate Advisory",
+          "job_title": "Strategy Consultant",
+          "core_skill": "Strategic Market Assessment",
+          "sub_skill": "Competitive Dynamics Evaluation",
+          "matched_evidence": "Porter Five Forces Diagnostic"
+        },
+        {
+          "domain": "Finance",
+          "job_category": "Corporate Finance and Strategic Planning",
+          "job_title": "Financial Planning Analyst",
+          "core_skill": "Rolling Forecast Architecture",
+          "sub_skill": "Dynamic Cost Run Rate Estimation",
+          "matched_evidence": "Monthly Run Rate Analysis"
+        },
+        {
+          "domain": "Finance",
+          "job_category": "Corporate Finance and Strategic Planning",
+          "job_title": "Strategic Finance Specialist",
+          "core_skill": "Unit Economics Optimization",
+          "sub_skill": "Payback Period Estimation",
+          "matched_evidence": "Cash Flow Breakeven Timeline"
+        }
+      ],
+      "other_skills_pending_approval": [
+        "Go-To-Market Strategy",
+        "SQL",
+        "Looker Studio",
+        "A/B Landing Page Tests",
+        "Due Diligence"
+      ]
+    },
+    "diff_log": []
+  },
+  {
+    "cv_id": "CV_003_NOISY_SWITCHER",
+    "raw_text": "ROHAN DESHMUKH - rohan.d99@example.com - Pune\nAbout me: Transitioning from corporate FP&A into applied AI & data automation!!\nWork Exp:\n1) Financial Analyst @ Kinetix Corp (Aug 2023 - Oct 2025)\nDid WACC Computation, Excel Financial Model builds for 3-statement forecasting, and automated variance checks using Python Requests and pandas.\n2) AI Automation Fellow @ BuildFast Labs (Nov 2025 - Present)\nFine-tuning PyTorch Module classifiers and Attention Mechanism models for contract risk tagging; exploring Feature Attribution (SHAP) and LangGraph agents.\nEdu: B.E. Mechanical Engg, Pune University (2023) | CFA Level 1 Cleared",
+    "stage1_routing": {
+      "primary_domain": "Information Technology",
+      "primary_job_category": "Data and Artificial Intelligence",
+      "secondary_domains": [
+        "Finance"
+      ],
+      "secondary_job_categories": [
+        "Corporate Finance and Strategic Planning"
+      ]
+    },
+    "model_extracted_profile": {
+      "candidate_name": "Rohan Deshmukh",
+      "mapped_skills": [
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Data Engineer",
+          "core_skill": "Data Pipeline Engineering",
+          "sub_skill": "API Data Ingestion Programming",
+          "matched_evidence": "Python Requests"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Machine Learning Engineer",
+          "core_skill": "Deep Learning Architecture Engineering",
+          "sub_skill": "PyTorch Model Engineering",
+          "matched_evidence": "PyTorch Module"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Machine Learning Engineer",
+          "core_skill": "Deep Learning Architecture Engineering",
+          "sub_skill": "Transformer Network Implementation",
+          "matched_evidence": "Attention Mechanism"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Data Scientist",
+          "core_skill": "Model Evaluation Validation",
+          "sub_skill": "Model Explainability Analysis",
+          "matched_evidence": "Feature Attribution"
+        },
+        {
+          "domain": "Finance",
+          "job_category": "Corporate Finance and Strategic Planning",
+          "job_title": "Financial Planning Analyst",
+          "core_skill": "Corporate Financial Modeling",
+          "sub_skill": "Three Statement Financial Integration",
+          "matched_evidence": "Excel Financial Model"
+        },
+        {
+          "domain": "Finance",
+          "job_category": "Corporate Finance and Strategic Planning",
+          "job_title": "Financial Planning Analyst",
+          "core_skill": "Corporate Financial Modeling",
+          "sub_skill": "Discounted Cash Flow Valuation",
+          "matched_evidence": "WACC Computation"
+        }
+      ],
+      "other_skills_pending_approval": [
+        "pandas",
+        "SHAP",
+        "LangGraph"
+      ]
+    },
+    "user_verified_profile": {
+      "candidate_name": "Rohan Deshmukh",
+      "mapped_skills": [
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Data Engineer",
+          "core_skill": "Data Pipeline Engineering",
+          "sub_skill": "API Data Ingestion Programming",
+          "matched_evidence": "Python Requests"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Machine Learning Engineer",
+          "core_skill": "Deep Learning Architecture Engineering",
+          "sub_skill": "PyTorch Model Engineering",
+          "matched_evidence": "PyTorch Module"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Machine Learning Engineer",
+          "core_skill": "Deep Learning Architecture Engineering",
+          "sub_skill": "Transformer Network Implementation",
+          "matched_evidence": "Attention Mechanism"
+        },
+        {
+          "domain": "Information Technology",
+          "job_category": "Data and Artificial Intelligence",
+          "job_title": "Data Scientist",
+          "core_skill": "Model Evaluation Validation",
+          "sub_skill": "Model Explainability Analysis",
+          "matched_evidence": "Feature Attribution"
+        },
+        {
+          "domain": "Finance",
+          "job_category": "Corporate Finance and Strategic Planning",
+          "job_title": "Financial Planning Analyst",
+          "core_skill": "Corporate Financial Modeling",
+          "sub_skill": "Three Statement Financial Integration",
+          "matched_evidence": "Excel Financial Model"
+        },
+        {
+          "domain": "Finance",
+          "job_category": "Corporate Finance and Strategic Planning",
+          "job_title": "Financial Planning Analyst",
+          "core_skill": "Corporate Financial Modeling",
+          "sub_skill": "Discounted Cash Flow Valuation",
+          "matched_evidence": "WACC Computation"
+        }
+      ],
+      "other_skills_pending_approval": [
+        "pandas",
+        "SHAP",
+        "LangGraph"
+      ]
+    },
+    "diff_log": []
+  }
+]
