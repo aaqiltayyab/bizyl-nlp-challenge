@@ -37,7 +37,12 @@ Generated deliverables:
 
 ## 3. Task 3: End-to-End Bizyl Profile Snapshot Audit
 
-After uploading `resume_mdakeel.pdf` on `bizyl.com` and inspecting the profile and Profile Snapshot (`[https://bizyl.com/profile-snapshot/f86ffcf2-b815-4bac-bea9-4a97550def75](https://bizyl.com/profile-snapshot/f86ffcf2-b815-4bac-bea9-4a97550def75)`), here are the 4 key issues observed and how I would fix them:
+After uploading `resume_mdakeel.pdf` on `bizyl.com` and inspecting the profile and Profile Snapshot
+
+- **Profile Snapshot URL:** https://bizyl.com/profile-snapshot/f86ffcf2-b815-4bac-bea9-4a97550def75
+- **Screen Recording / Video Walkthrough:** [Watch End-to-End Upload & Audit Video](https://drive.google.com/file/d/1BxrBO_suBOLOpu0iUSX70kqBK4UygY77/view?usp=sharing)
+
+here are the 4 key issues observed and how I would fix them:
 
 1. **Candidate Name & Location Extraction Mismatch (`Profile Details`):**
 
